@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Yashvi! 👋
 
-<!--
-**Yashvi-Garg8/Yashvi-Garg8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Information Technology student passionate about solving algorithmic problems and engineering real-world software solutions. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Project
+
+### 🍽️ [MealLink](https://github.com/jiyashah21/meallink)
+**Role:** Frontend Developer | **Tech Stack:** HTML, CSS, JavaScript, SQL
+A web application designed to reduce food waste by connecting surplus meals with those in need. 
+* 🛠️ Architected and implemented core application features 
+* 📊 Managed database interactions and structural modifications to support seamless user workflows.
+
+---
+
+## 📈 Technical Consistency & DSA
+
+I am actively sharpening my core data structures and algorithmic skills through problem-solving.
+
+* 💻 **Tracker:** Follow my daily code commits here: [DSA-ques](https://github.com/Yashvi-Garg8/DSA-ques)
+* ⚡ **Language of Choice:** Java ☕
+
+---
+
+### 🛠️ Toolbox
+- **Languages:** Java, Python, JavaScript, HTML/CSS, SQL
+- **Frameworks & Tools:** Git, GitHub, VS Code
